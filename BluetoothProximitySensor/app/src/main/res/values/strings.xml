@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothProximitySensor</string>
+    <string name="room_name_info">Olet huoneessa: </string>
+    <string name="send_data_btn">Send data</string>
+    <string name="roomInfoText">Huoneessa olevat palvelut: </string>
+
+    <string name="room_name_toimisto">Toimisto</string>
+    <string name="room_name_makuuhuone">Makuuhuone</string>
+    <string name="room_name_olohuone">Olohuone</string>
+
+</resources>
